@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var points=[];","map":{"version":3,"sources":["C:/Users/Adith/sp/points.js"],"names":["points"],"mappings":"AACA,MAAO,IAAIA,CAAAA,MAAM,CAAG,EAAb","sourcesContent":["\r\nexport var points = [\r\n    \r\n  ];"]},"metadata":{},"sourceType":"module"}
